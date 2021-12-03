@@ -12,3 +12,14 @@ The dataset is not ideal, so it will need to be processed to fit the machine lea
 -  Data Files: crypto_clustering.csv
 
 -  Software/Languages:  Python 3.7.10, Anaconda Navigator, Conda, Jupyter Notebook 6.4.3, Pandas 1.2.4 
+
+## 3D Scatter
+
+
+<img width="866" alt="Screen Shot 2021-12-03 at 12 07 45 PM" src="https://user-images.githubusercontent.com/691355/144666340-d83823e1-45b7-4a59-9fd1-6f0ac8bb49b4.png">
+
+## Scatter Plot
+
+
+<img width="860" alt="Screen Shot 2021-12-03 at 12 08 51 PM" src="https://user-images.githubusercontent.com/691355/144666424-12efc750-914d-45c8-8462-4834b23be2cc.png">
+
